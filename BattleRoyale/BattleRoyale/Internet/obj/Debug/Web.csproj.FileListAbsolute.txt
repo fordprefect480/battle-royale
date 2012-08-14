@@ -3,3 +3,5 @@ C:\Users\osymes\Desktop\GitHub\battle-royale\BattleRoyale\BattleRoyale\Internet\
 C:\Users\osymes\Desktop\GitHub\battle-royale\BattleRoyale\BattleRoyale\Internet\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\osymes\Desktop\GitHub\battle-royale\BattleRoyale\BattleRoyale\Internet\obj\Debug\Internet.dll
 C:\Users\osymes\Desktop\GitHub\battle-royale\BattleRoyale\BattleRoyale\Internet\obj\Debug\Internet.pdb
+C:\Users\osymes\Desktop\GitHub\battle-royale\BattleRoyale\BattleRoyale\Internet\bin\Newtonsoft.Json.dll
+C:\Users\osymes\Desktop\GitHub\battle-royale\BattleRoyale\BattleRoyale\Internet\bin\Newtonsoft.Json.xml
